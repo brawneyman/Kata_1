@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Kata::Application.config.secret_key_base = '7885f0c51a83118fe8a4822c228c3c3d7afa4a9662d27649c7437fb07eec88c4488f392103cc7736d39fbfddfce52115be0e65978b9cc86a68d4c4588d9f7f7a'
+Kata::Application.config.secret_key_base = '9464db17bb9cfebe7f1266363ac98a4083a8a5b53d83dc96ffd1551c07306f2218765e95677d4a67e6c2759cd58940195db8a1621c6e57a0705a99bd5f3fe58b'
